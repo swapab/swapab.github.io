@@ -60,7 +60,7 @@ html, body, .summer-post-container, .summer-post-header {
       position: absolute;
       top: 0;
       left: 0;
-      z-index: 9999; }
+       }
       .post-template .summer-post-header .summer-post-menu-header .summer-blog-logo {
         display: inline-block;
         max-height: 5rem; }
@@ -373,7 +373,7 @@ html, body, .summer-post-container, .summer-post-header {
     background-color: black;
     color: white;
     position: relative;
-    z-index: 9999; }
+     }
     .summer-page-container .summer-page-menu-header .summer-blog-logo {
       display: inline-block;
       max-height: 5rem; }

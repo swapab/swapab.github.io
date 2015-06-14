@@ -140,11 +140,8 @@
             $(container).addClass('notrans');
             $(container).addClass('modify');
         }
-
         window.addEventListener( 'scroll', scrollPage );
 
         trigger.addEventListener( 'click', function() { toggle( 'reveal' ); } );
-    
     }
-
 })();
