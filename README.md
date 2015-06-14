@@ -8,8 +8,7 @@ Main Features:
 * Fast and light
 * Font Awesome
 * Disqus comments integration
-Y
-ou can set post image covers by using only Kramdown narkdown, just place something like this: ![cover-image](http://path-to-your-image.jpg)
+* You can set post image covers by using only Kramdown narkdown, just place something like this: ![cover-image](http://path-to-your-image.jpg)
 
 Credits:
 
@@ -20,8 +19,8 @@ Credits:
 * Codrops article: http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/
 * There are also tools like jQuery, Modernizr, Normalize.
 
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
+If you'd like to give me credit somewhere on your blog or tweet a shout out to [@swapnilabnave](https://twitter.com/swapnilabnave), that would be pretty sweet.
 
 
-Warm Regards and Stay Creative,  
-Hossain Mohd. Faysal
+Warm Regards and Stay Creative,
+Swapnil Abnave
