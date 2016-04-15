@@ -20,14 +20,14 @@ future: true
 
 This topic is about using Redis and LUA script in Rails.
 
-Before proceeding, you may like to read " Introduction to LUA script with Redis":/introduction-to-lua-script-with-redis
+Before proceeding, you may like to read [Introduction to LUA script with Redis](/programming/introduction-to-lua-script-with-redis)
 
 
 Redis doesn't have any command to calculate total number of keys
 
-We'll use [zrangebyscore](http://redis.io/commands/zrangebyscore) to find number of members between index range.
+We'll use [zrangebyscore](http://redis.io/commands/zrangebyscore){:target="_blank"} to find number of members between index range.
 
-Instal [redis-rb](https://github.com/redis/redis-rb)
+Instal [redis-rb](https://github.com/redis/redis-rb){:target="_blank"}
 
 Start `rails console`
 
