@@ -4,7 +4,7 @@ logo:             logo_hollow_ruby_edged.png
 disqus_shortname: swapnilabnave
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 #url:        	  http://swapnilabnave.github.io
 
@@ -25,9 +25,9 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-64088251-1
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -50,7 +50,7 @@ highlighter: pygments
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
-
+gems: [jekyll-paginate]
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
@@ -59,10 +59,10 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
