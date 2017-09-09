@@ -1,5 +1,5 @@
 {
-  "name": "spa-github-pages",
+  "name": "swapab.github.io",
   "version": "5.0.0",
   "private": true,
   "description": "Single Page Apps for GitHub Pages",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafrex/spa-github-pages.git"
+    "url": "git+https://github.com/swapab/swapab.github.io.git"
   },
-  "author": "Rafael Pedicini <code@rafrex.com>",
+  "author": "Swapnil Abnave <imswapab@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.8",
